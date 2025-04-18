@@ -33,7 +33,7 @@
 ### 💬 Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente me preparando para certificações em AWS, Azure e GCP
+- 🔭 Atualmente me especializando em Cloud (AWS, Azure e GCP).
 - 💻 Tenho experiência com suporte técnico, infraestrutura e automações
 - 🌱 Me aprofundando em DevOps, SRE e boas práticas de IaC
 - 🧠 Sempre buscando evoluir tecnicamente e como profissional
