@@ -40,7 +40,7 @@
  ![image alt](https://github.com/Henry-exe/henry-silva/blob/4c530579695c1a07db3a8f46358e3ed8810329b5/aws-partner-architecting-sap.png)
  ![image alt](https://github.com/Henry-exe/henry-silva/blob/e31543ab5fba8de2f95e2b1dcf9540a72f6d55c4/aws-certified-cloud-practitioner%20(1).png)
  ![image alt](https://github.com/Henry-exe/henry-silva/blob/e31543ab5fba8de2f95e2b1dcf9540a72f6d55c4/aws-certified-solutions-architect-associate.png)
- ![image alt](https://github.com/Henry-exe/henry-silva/blob/e31543ab5fba8de2f95e2b1dcf9540a72f6d55c4/aws-certified-developer-associate.png)
+ ![image alt]([aws-certified-developer-associate.png](https://github.com/Henry-exe/Henry-exe/blob/270cd1eab30daae7bb50f2eb62f76906e40fe070/aws-certified-developer-associate.png)
 
 
 
