@@ -25,7 +25,6 @@
 </p>
 
 ---
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c1623e8-bfe4-4fc7-9d8d-1bc43140ef7b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 💬 Sobre mim
 
