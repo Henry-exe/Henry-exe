@@ -39,7 +39,7 @@
 - Continuously improving technical skills through practical projects and self-study
 
 ---
-### 🏅 Certificações
+### 🏅 Certifications
 
  <!-- [image alt](https://github.com/Henry-exe/henry-silva/blob/4c530579695c1a07db3a8f46358e3ed8810329b5/aws-partner-architecting-sap.png) -->
  ![image alt](https://github.com/Henry-exe/henry-silva/blob/e31543ab5fba8de2f95e2b1dcf9540a72f6d55c4/aws-certified-cloud-practitioner%20(1).png)
