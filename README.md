@@ -1,9 +1,13 @@
-<h1 align="center">Olá! Eu sou o Henry 👋</h1>
+<h1 align="center">Henry Silva</h1>
 
 <p align="center">
-  Apaixonado por infraestrutura, automação e cloud ☁️<br>
-  Sempre aprendendo e buscando novos desafios! 🚀<br>
-  Atuo na área de suporte e estou migrando para a área de DevOps/SRE, com foco em cloud computing e IaC.
+  Cloud • Infrastructure • Automation
+</p>
+
+<p align="center">
+  IT professional with experience in support and IT operations in corporate environments.<br>
+  Focused on cloud computing, infrastructure, automation, and infrastructure as code.<br>
+  AWS certified, with hands-on projects using Terraform, Python, Linux, and AWS services.
 </p>
 
 <p align="center">
@@ -26,13 +30,13 @@
 
 ---
 
-### 💬 Sobre mim
+### 💬 About Me
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente me especializando em Cloud AWS.
-- 💻 Tenho experiência com suporte técnico, infraestrutura e automações
-- 🌱 Me aprofundando em DevOps, SRE e boas práticas de IaC
-- 🧠 Sempre buscando evoluir tecnicamente e como profissional
+- IT professional with experience in technical support, IT operations, and infrastructure
+- AWS Certified: Cloud Practitioner, Solutions Architect Associate, and Developer Associate
+- Hands-on experience with Terraform, Python, Linux, and AWS services
+- Strong interest in cloud computing, automation, infrastructure, and IaC
+- Continuously improving technical skills through practical projects and self-study
 
 ---
 ### 🏅 Certificações
